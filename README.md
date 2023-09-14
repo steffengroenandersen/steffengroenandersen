@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steffengroenandersen
 - 👀 I’m interested in SaaS, digital tools and solopreneurship
-- 🌱 I’m currently learning Java, SQL and Vue.js
+- 🌱 I’m currently learning CI/CD techniques, JavaScript and REST
 - 📫 How to reach me steffengroenandersen@gmail.com
 
 <!---
