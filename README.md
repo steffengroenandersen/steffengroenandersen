@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steffengroenandersen
 - 👀 I’m interested in SaaS, digital tools and solopreneurship
-- 🌱 I’m currently learning CI/CD techniques, JavaScript and REST
+- 🌱 I’m currently learning Node, Svelte, Data Structures and Algorithms, and mobile development with React Native
 - 📫 How to reach me steffengroenandersen@gmail.com
 
 <!---
